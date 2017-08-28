@@ -5,14 +5,10 @@
 </template>
 
 <script>
-export default {
-  name: 'app'
-}
-</script>
 
-<style>
-html,body{
-	margin:0;
-	padding:0;
+export default {
+  name: 'main'
 }
-</style>
+
+
+</script>
